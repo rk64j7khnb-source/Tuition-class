@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>12th Board Crash Course Tuition</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 min-h-screen">
+  <div class="max-w-4xl mx-auto p-4">
+    <!-- Hero Section -->
+    <div class="text-center py-12 bg-orange-600 text-white rounded-2xl shadow-md mb-8">
+      <h1 class="text-4xl font-bold mb-4">12th Board Crash Course (Physics + Chemistry)</h1>
+      <p class="text-xl mb-6">Missed the year? Don’t panic — We’re the Solution!</p>
+      <a href="#contact" class="bg-white text-orange-600 px-6 py-3 rounded-full font-semibold shadow hover:shadow-lg transition">Enroll / Get Free Demo</a>
+    </div>
+
+    <!-- Q&A Hooks -->
+    <div>
+      <h2 class="text-2xl font-bold mb-6 text-center">Struggling? We Help You Catch Up!</h2>
+      <div class="space-y-4">
+        <div class="bg-white p-4 rounded-2xl shadow-sm">
+          <p class="text-lg font-semibold">Parents stressed about kids’ studies?</p>
+          <p class="mt-1">✅ Expert guidance + daily doubt support</p>
+        </div>
+        <div class="bg-white p-4 rounded-2xl shadow-sm">
+          <p class="text-lg font-semibold">Syllabus incomplete?</p>
+          <p class="mt-1">✅ Key chapters covered in 6 weeks + tests</p>
+        </div>
+        <div class="bg-white p-4 rounded-2xl shadow-sm">
+          <p class="text-lg font-semibold">Low confidence for boards?</p>
+          <p class="mt-1">✅ Concept clarity + PYQ practice</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Features Section -->
+    <div class="mt-12 grid md:grid-cols-2 gap-4">
+      <div class="bg-white p-4 rounded-2xl shadow-sm">
+        <h3 class="text-xl font-bold mb-2">What You Get</h3>
+        <ul class="space-y-2">
+          <li>✔ 6-week exam plan</li>
+          <li>✔ Short notes & PYQs</li>
+          <li>✔ Weekly tests + analysis</li>
+          <li>✔ Small batches</li>
+          <li>✔ Personal attention</li>
+        </ul>
+      </div>
+      <div class="flex items-center justify-center bg-white p-4 rounded-2xl shadow-sm">
+        <p class="text-lg font-semibold text-center">🎁 Scan QR on your Gift Paper to unlock free demo + notes + more surprises!</p>
+      </div>
+    </div>
+
+    <!-- Contact Section -->
+    <div id="contact" class="text-center mt-12 bg-white p-6 rounded-2xl shadow">
+      <h2 class="text-2xl font-bold mb-4">Contact & Seat Booking</h2>
+      <p class="text-lg">📞 Call / WhatsApp: <span class="font-bold">+91 90284 07005</span></p>
+      <p class="mt-2">📍 Location: Your city tuition center (offline batches)</p>
+      <p class="mt-2 text-sm text-gray-500">🔔 Limited seats — enroll today!</p>
+    </div>
+  </div>
+</body>
+</html>
